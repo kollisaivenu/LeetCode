@@ -30,9 +30,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/kollisaivenu/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Greedy
 |  |
 | ------- |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+## Hash Table
+|  |
+| ------- |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/kollisaivenu/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
+## String
+|  |
+| ------- |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/kollisaivenu/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
+## Enumeration
+|  |
+| ------- |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/kollisaivenu/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 <!---LeetCode Topics End-->
