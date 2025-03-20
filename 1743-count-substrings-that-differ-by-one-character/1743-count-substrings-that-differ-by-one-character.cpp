@@ -1,11 +1,10 @@
 class Solution {
 public:
     int countSubstrings(string s, string t) {
-        vector<vector<int>>vis(s.length(), vector<int>(t.length(), 0));
-        vector<vector<int>>dp(s.length()+1, vector<int>(t.length()+1, 0));
         int ans = 0;
         for(int i=s.length()-1;i>=0;i--){
             for(int j=t.length()-1;j>=0;j--){
+                int curr_ans = 0;
                 if(s[i] != t[j]){
                     int left_subarrays = 0;
                     int go_left_i = i-1;
@@ -26,9 +25,9 @@ public:
                         go_right_i++;
                         go_right_j++;
                     }
-                    dp[i][j] += (1 + left_subarrays)*(1 + right_subarrays);
+                    curr_ans += (1 + left_subarrays)*(1 + right_subarrays);
                 }
-                ans += dp[i][j];
+                ans += curr_ans;
 
             }
         }
