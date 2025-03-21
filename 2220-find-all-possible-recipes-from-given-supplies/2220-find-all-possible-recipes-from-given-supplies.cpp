@@ -8,10 +8,7 @@ public:
         int index = 0;
 
         for(int i=0;i<supplies.size();i++){
-            //items2Index[supplies[i]] = index;
-            //index2Items[index] = supplies[i];
             supplyPresent[supplies[i]] = true;
-            //index++;
         }
 
         for(int i=0;i<recipes.size();i++){
@@ -46,7 +43,6 @@ public:
 
         for(int i=0;i<indeg.size();i++){
             if(indeg[i] == 0 && supplyPresent[index2Items[i]]){
-                cout<<index2Items[i];
                 q.push(i);
             }
         }
@@ -60,7 +56,6 @@ public:
             }
 
             for(int i=0;i<graph[item].size();i++){
-                //cout<<"came here\n";
                 indeg[graph[item][i]]--;
 
                 if(indeg[graph[item][i]] == 0){
