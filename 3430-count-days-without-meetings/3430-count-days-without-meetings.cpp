@@ -5,20 +5,17 @@ public:
     }
     int countDays(int days, vector<vector<int>>& meetings) {
         sort(meetings.begin(), meetings.end(), compareVector);
-        //vector<vector<int>>mergedMeetings;
         vector<int> meeting = meetings[0];
         int busyDays = 0;
         for(int i=1;i<meetings.size();i++){
             if(meetings[i][0] <= meeting[1] && meeting[1]<meetings[i][1]){
                 meeting[1] = meetings[i][1];
             } else if(meetings[i][0] > meeting[1]){
-                //mergedMeetings.push_back(meeting);
                 busyDays += (meeting[1] - meeting[0] + 1);
                 meeting = meetings[i];
             }
         }
         busyDays += (meeting[1] - meeting[0] + 1);
-        //mergedMeetings.push_back(meeting);
         return days-busyDays;
     }
 };
