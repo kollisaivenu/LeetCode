@@ -37,7 +37,6 @@ public:
                 }
 
                 ans = ans | dp[stones2index[stones[i]+curr_leap+1]][curr_leap+1];
-                //ans = ans | recursion(stones, stones2index[stones[i]+curr_leap+1], curr_leap+1, stones2index);
             } 
             if(stones2index[stones[i]+curr_leap-1] > i){
                 if(dp[stones2index[stones[i]+curr_leap-1]][curr_leap-1] == -1){
@@ -45,7 +44,6 @@ public:
                 }
 
                 ans = ans | dp[stones2index[stones[i]+curr_leap-1]][curr_leap-1];
-                //ans = ans | recursion(stones, stones2index[stones[i]+curr_leap-1], curr_leap-1, stones2index);
             }
         }
         dp[i][curr_leap] = ans;
