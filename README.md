@@ -50,17 +50,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/kollisaivenu/LeetCode/tree/master/0768-partition-labels) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0768-partition-labels](https://github.com/kollisaivenu/LeetCode/tree/master/0768-partition-labels) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/kollisaivenu/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kollisaivenu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kollisaivenu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## String
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/kollisaivenu/LeetCode/tree/master/0768-partition-labels) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/kollisaivenu/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kollisaivenu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2887-sort-vowels-in-a-string](https://github.com/kollisaivenu/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/kollisaivenu/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0768-partition-labels](https://github.com/kollisaivenu/LeetCode/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Design
 |  |
