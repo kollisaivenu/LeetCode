@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kollisaivenu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2478-longest-nice-subarray](https://github.com/kollisaivenu/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/kollisaivenu/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kollisaivenu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/kollisaivenu/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kollisaivenu/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/kollisaivenu/LeetCode/tree/master/0768-partition-labels) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kollisaivenu/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [2681-put-marbles-in-bags](https://github.com/kollisaivenu/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Hash Table
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/kollisaivenu/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kollisaivenu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/kollisaivenu/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2887-sort-vowels-in-a-string](https://github.com/kollisaivenu/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kollisaivenu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/kollisaivenu/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/kollisaivenu/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/kollisaivenu/LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Data Stream
 |  |
 | ------- |
