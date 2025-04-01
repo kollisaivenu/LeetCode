@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kollisaivenu/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kollisaivenu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kollisaivenu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/kollisaivenu/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2478-longest-nice-subarray](https://github.com/kollisaivenu/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/kollisaivenu/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0494-target-sum) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/kollisaivenu/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kollisaivenu/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/kollisaivenu/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Greedy
 |  |
