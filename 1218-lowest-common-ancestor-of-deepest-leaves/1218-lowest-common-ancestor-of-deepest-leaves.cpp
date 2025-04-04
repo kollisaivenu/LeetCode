@@ -39,9 +39,6 @@ public:
             levels.push_back(level);
         }
         set<TreeNode*>parents;
-        // for(int i=0;i<levels[levels.size()-1].size();i++){
-        //     parents.insert(levels[levels.size()-1][i]);
-        // }
 
         for(TreeNode* node: levels[levels.size()-1]){
             parents.insert(node);
