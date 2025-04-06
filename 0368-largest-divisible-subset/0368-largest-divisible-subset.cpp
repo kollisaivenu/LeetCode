@@ -20,7 +20,6 @@ public:
                 dp[i][j] = max(dp[i][j], dp[i+1][j]);
             }
         }
-        //cout<<dp[0][0]<<"\n";
         vector<int>ans;
         int i=0,j=0;
         while(i<nums.size()){
@@ -39,22 +38,4 @@ public:
         
         return ans;
     }
-
-    int largestGeometricSequence(vector<int>& nums, int lastIndex, int currIndex){
-        if(currIndex >= nums.size()){
-            return 0;
-        }
-        int ans = INT_MIN;
-        if(lastIndex == -1){
-            ans = max(ans, 1 + largestGeometricSequence(nums, currIndex, currIndex+1));
-        } else {
-            if(nums[currIndex]%nums[lastIndex] == 0){
-                ans = max(ans, 1 + largestGeometricSequence(nums, currIndex, currIndex+1));
-            }   
-        }
-
-        ans = max(ans, largestGeometricSequence(nums, lastIndex, currIndex+1));
-        return ans;
-    }
-    
 };
