@@ -22,14 +22,4 @@ public:
         return dp[0][0];
 
     }
-
-    bool canEqualSumPartition(vector<int>&nums, int partitionSum, int currIndex, int totalSum){
-        if(currIndex == nums.size()){
-            if(partitionSum*2 == totalSum){
-                return true;
-            }
-            return false;
-        }
-        return canEqualSumPartition(nums, partitionSum+nums[currIndex], currIndex+1, totalSum) || canEqualSumPartition(nums, partitionSum, currIndex+1, totalSum);
-    }
 };
