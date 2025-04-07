@@ -8,12 +8,12 @@ public:
         if(totalSum%2 == 1){
             return false;
         }
-        vector<vector<bool>>dp(nums.size()+1, vector<bool>(totalSum+1, false));
+        vector<vector<bool>>dp(nums.size()+1, vector<bool>(totalSum/2+1, false));
         dp[nums.size()][totalSum/2] = true;
         
         for(int i=nums.size()-1;i>=0;i--){
-            for(int j=totalSum;j>=0;j--){
-                if(j+nums[i]<=totalSum){
+            for(int j=totalSum/2;j>=0;j--){
+                if(j+nums[i]<=totalSum/2){
                     dp[i][j] = dp[i][j] || dp[i+1][j+nums[i]];
                 }
                 dp[i][j] = dp[i][j] || dp[i+1][j]; 
