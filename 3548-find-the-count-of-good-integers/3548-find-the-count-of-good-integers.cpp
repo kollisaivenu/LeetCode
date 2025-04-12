@@ -19,11 +19,15 @@ public:
             sort(toSort.begin(), toSort.end());
             if(number%k == 0 && alreadySeen[toSort] == false){
                 alreadySeen[toSort] = true;
-                long long numOfCombos = (num.length()-freq[0])*fact[num.length()-1];
+                long long numOfCombos = fact[num.length()];
                 for(int i=0;i<=9;i++){
                     numOfCombos = numOfCombos/fact[freq[i]];
                 }
-                count += numOfCombos;
+                long long numOfInvalidCombos = freq[0]*fact[num.length()-1];
+                for(int i=0;i<=9;i++){
+                    numOfInvalidCombos = numOfInvalidCombos/fact[freq[i]];
+                }
+                count += (numOfCombos-numOfInvalidCombos);
             }
             return;
         }
