@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0494-target-sum) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kollisaivenu/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1656-count-good-triplets](https://github.com/kollisaivenu/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kollisaivenu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kollisaivenu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kollisaivenu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/kollisaivenu/LeetCode/tree/master/1656-count-good-triplets) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/kollisaivenu/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kollisaivenu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/kollisaivenu/LeetCode/tree/master/2998-count-symmetric-integers) |
