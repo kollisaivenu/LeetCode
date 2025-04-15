@@ -7,10 +7,8 @@ public:
             int bitb = b & 1;
             a = a>>1;
             b = b>>1;
-            //cout<<bita<<"\n";
-            //cout<<bitb<<"\n";
+
             if(bita == 1 && bitb == 0 || bita == 0 && bitb == 1){
-                //cout<<sum<<"\n";
                 if(bitc == 0){
                     sum = sum | (1 << i);
                 }
