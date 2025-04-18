@@ -9,7 +9,7 @@ public:
         return ans;
     }
 
-    string rle(string s){
+    string rle(string &s){
         int count = 1;
         char ch = s[0];
         string ans = "";
