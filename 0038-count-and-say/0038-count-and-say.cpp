@@ -1,13 +1,12 @@
 class Solution {
 public:
     string countAndSay(int n) {
-        vector<string>ans(n);
-        ans[0] = "1";
+        string ans = "1";
 
         for(int i=1;i<n;i++){
-            ans[i] = rle(ans[i-1]);
+            ans = rle(ans);
         }
-        return ans[n-1];
+        return ans;
     }
 
     string rle(string s){
