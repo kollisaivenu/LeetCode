@@ -5,32 +5,32 @@ public:
     int sizeOfMinHeap;
     KthLargest(int k, vector<int>& nums) {
         for(int i=0;i<nums.size();i++){
-            maxHeap.push(nums[i]);
+            this->maxHeap.push(nums[i]);
         }
 
         int j=1;
         
-        while((maxHeap.size() > 0) && (j<=k)){
-            minHeap.push(maxHeap.top());
-            maxHeap.pop();
+        while((this->maxHeap.size() > 0) && (j<=k)){
+            this->minHeap.push(this->maxHeap.top());
+            this->maxHeap.pop();
             j++;
         }
 
-        sizeOfMinHeap = k;
+        this->sizeOfMinHeap = k;
     }
     
     int add(int val) {
-        if(minHeap.size() < sizeOfMinHeap){
-            minHeap.push(val);
-        } else if(val<=minHeap.top()){
-            maxHeap.push(val);
+        if(this->minHeap.size() < this->sizeOfMinHeap){
+            this->minHeap.push(val);
+        } else if(val<=this->minHeap.top()){
+            this->maxHeap.push(val);
         } else {
-            maxHeap.push(minHeap.top());
-            minHeap.pop();
-            minHeap.push(val);
+            this->maxHeap.push(this->minHeap.top());
+            this->minHeap.pop();
+            this->minHeap.push(val);
         }
 
-        return minHeap.top();
+        return this->minHeap.top();
     }
 };
 
