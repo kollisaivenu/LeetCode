@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/kollisaivenu/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kollisaivenu/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kollisaivenu/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3778-transform-array-by-parity](https://github.com/kollisaivenu/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/kollisaivenu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/kollisaivenu/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kollisaivenu/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3778-transform-array-by-parity](https://github.com/kollisaivenu/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kollisaivenu/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Counting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/kollisaivenu/LeetCode/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
