@@ -10,7 +10,7 @@ public:
     }
     
     int sumRange(int left, int right) {
-        return prefixSum[right+1] - prefixSum[left];
+        return this->prefixSum[right+1] - this->prefixSum[left];
     }
 };
 
