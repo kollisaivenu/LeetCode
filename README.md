@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kollisaivenu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/kollisaivenu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kollisaivenu/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kollisaivenu/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kollisaivenu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/kollisaivenu/LeetCode/tree/master/1656-count-good-triplets) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/kollisaivenu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kollisaivenu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kollisaivenu/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1500-count-largest-group](https://github.com/kollisaivenu/LeetCode/tree/master/1500-count-largest-group) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/kollisaivenu/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kollisaivenu/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3778-transform-array-by-parity](https://github.com/kollisaivenu/LeetCode/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
