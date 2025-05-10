@@ -18,8 +18,7 @@ public:
                 noOfZeroesInNums2++;
             }
         }
-        cout<<sumOfNums1 + noOfZeroesInNums1<<"\n";
-        cout<<sumOfNums2 + noOfZeroesInNums2<<"\n";
+
         if(sumOfNums1 + noOfZeroesInNums1 >= sumOfNums2 + noOfZeroesInNums2){
             if((noOfZeroesInNums2 > 0) || (sumOfNums1 + noOfZeroesInNums1 == sumOfNums2)){
                 return sumOfNums1 + noOfZeroesInNums1;
