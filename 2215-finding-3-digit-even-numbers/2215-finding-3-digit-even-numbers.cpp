@@ -1,30 +1,29 @@
 class Solution {
 public:
     vector<int> findEvenNumbers(vector<int>& digits) {
-        map<int, bool>isVis;
+        vector<int>freq(10, 0);
         vector<int>ans;
-        sort(digits.begin(), digits.end());
-
         for(int i=0;i<digits.size();i++){
-            if(digits[i] != 0){
-                for(int j=0;j<digits.size();j++){
-                    if(j == i) continue;
-                    
-                    for(int k=0;k<digits.size();k++){
-                        if(k == i || k == j) continue;
-                        
-                        if(digits[k]%2 == 0){
-                            int num = digits[i]*100 + digits[j]*10 + digits[k];
+            freq[digits[i]]++;
+        }
 
-                            if(!isVis[num]){
-                                ans.push_back(num);
-                                isVis[num] = true;
-                            }
-                        }
+        for(int i=1;i<=9;i++){
+            for(int j=0;j<=9;j++){
+                for(int k=0;k<=8;k=k+2){
+                    vector<int>numFreq(10, 0);
+                    numFreq[i]++;
+                    numFreq[j]++;
+                    numFreq[k]++;
+
+                    if(numFreq[i] <= freq[i] && numFreq[j] <= freq[j] && numFreq[k] <= freq[k]){
+                        ans.push_back(i*100+j*10+k);
                     }
                 }
             }
         }
+
         return ans;
+
+
     }
 };
