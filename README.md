@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kollisaivenu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/kollisaivenu/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/kollisaivenu/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kollisaivenu/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/kollisaivenu/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kollisaivenu/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/kollisaivenu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/kollisaivenu/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2249-count-the-hidden-sequences](https://github.com/kollisaivenu/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kollisaivenu/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/kollisaivenu/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/kollisaivenu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/kollisaivenu/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kollisaivenu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kollisaivenu/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
