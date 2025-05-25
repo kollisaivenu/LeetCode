@@ -1,46 +1,45 @@
 class Solution {
 public:
     int longestPalindrome(vector<string>& words) {
-        unordered_map<string, int>m;
-        int mid = 0, count=0;
-        string middle = "";
+        unordered_map<string, int>freq;
+        int midTextLength = 0, length=0;
+        string midText = "";
+
         for(int i=0;i<words.size();i++){
-            m[words[i]]++;
+            freq[words[i]]++;
         }
 
         for(int i=0;i<words.size();i++){
-            if(words[i][0] == words[i][1] && m[words[i]]%2 == 1 && m[words[i]] > mid){
-                mid = m[words[i]];
-                middle = words[i];
+            if(words[i][0] == words[i][1] && freq[words[i]]%2 == 1 && freq[words[i]] > midTextLength){
+                midTextLength = 2*freq[words[i]];
+                midText = words[i];
             }
         }
-        cout<<mid<<"\n";
-        cout<<middle<<"\n";
         for(int i=0;i<words.size();i++){
 
             if(words[i][0] == words[i][1]){
                 
-                if(words[i] != middle){
-                    if(m[words[i]]%2 == 0){
-                        count += m[words[i]]*2;
+                if(words[i] != midText){
+                    if(freq[words[i]]%2 == 0){
+                        length += freq[words[i]]*2;
                     } else {
-                        count += (m[words[i]]-1)*2;
+                        length += (freq[words[i]]-1)*2;
                     }
-                    m.erase(words[i]);
+                    freq.erase(words[i]);
                 }
             } else {
-                string s = ""s + words[i][1] + words[i][0];
+                string rev = ""s + words[i][1] + words[i][0];
 
-                if(m.find(s) != m.end()){
-                    count = count + min(m[words[i]], m[s])*4;
-                    m.erase(s);
-                    m.erase(words[i]);
+                if(freq.find(rev) != freq.end()){
+                    length = length + min(freq[words[i]], freq[rev])*4;
+                    freq.erase(rev);
+                    freq.erase(words[i]);
                 }
             }
             
         }
 
-        return count + 2*mid;
+        return length + midTextLength;
 
         
     }
