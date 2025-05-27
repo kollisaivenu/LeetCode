@@ -1,7 +1,6 @@
 class Solution {
 public:
     string multiply(string num1, string num2) {
-        //cout<<multiplyWithSingleNumber("2", '3');
         string larger = "", smaller = "";
         if(num1.length()>num2.length()){
             larger = num1;
@@ -55,7 +54,7 @@ public:
     }
 
     string add(string no1, string no2){
-        string larger = "", smaller = "", ans="";
+        string larger = "", smaller = "", ans = "";
         if(no1.length()>no2.length()){
             larger = no1;
             smaller = no2;
