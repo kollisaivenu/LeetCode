@@ -29,7 +29,7 @@ public:
     }
 
     int bfs(int i, vector<vector<int>>&graph, int k){
-        if(k<0){
+        if(k < 0){
             return 0;
         }
         vector<int>vis(graph.size(), 0);
