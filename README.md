@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kollisaivenu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/kollisaivenu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kollisaivenu/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kollisaivenu/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kollisaivenu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kollisaivenu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/kollisaivenu/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kollisaivenu/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kollisaivenu/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/kollisaivenu/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kollisaivenu/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/kollisaivenu/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -306,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kollisaivenu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kollisaivenu/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -351,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kollisaivenu/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kollisaivenu/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search Tree
