@@ -8,15 +8,15 @@ public:
                 graph[i].push_back(edges[i]);
             }
         }
-        vector<int>level1 = bfs(graph, node1);
-        vector<int>level2 = bfs(graph, node2);
+        vector<int>dist1 = bfs(graph, node1);
+        vector<int>dist2 = bfs(graph, node2);
         int ans = -1;
         int maxDist = INT_MAX;
         
         for(int i=0;i<edges.size();i++){
-            if(level1[i] != INT_MAX && level2[i] != INT_MAX && max(level1[i], level2[i]) < maxDist){
+            if(dist1[i] != INT_MAX && dist2[i] != INT_MAX && max(dist1[i], dist2[i]) < maxDist){
                 ans = i;
-                maxDist = max(level1[i], level2[i]);
+                maxDist = max(dist1[i], dist2[i]);
             }
         }
         return ans; 
@@ -24,7 +24,7 @@ public:
 
     vector<int>bfs(vector<vector<int>>&graph, int node){
         queue<int>q;
-        vector<int>node2level(graph.size(), INT_MAX);
+        vector<int>dist(graph.size(), INT_MAX);
         vector<int>vis(graph.size(), 0);
         q.push(node);
         int level = 0;
@@ -38,7 +38,7 @@ public:
 
                 if(vis[n] == 0){
                     vis[n] = 1;
-                    node2level[n] = level;
+                    dist[n] = level;
 
                     for(int i=0;i<graph[n].size();i++){
                         q.push(graph[n][i]);
@@ -50,7 +50,7 @@ public:
             level++;
         }
 
-        return node2level;
+        return dist;
     }
 
 };
