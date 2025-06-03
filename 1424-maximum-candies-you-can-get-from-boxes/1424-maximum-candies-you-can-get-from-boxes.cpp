@@ -4,9 +4,10 @@ public:
         int totalCandies = 0;
         int opened = 0;
         vector<vector<int>>graph(status.size());
-        queue<int>q;
         vector<int>chocolateAdded(status.size(), 0);
         vector<int>vis(status.size(), 0);
+        queue<int>q;
+        
         for(int i=0;i<status.size();i++){
             for(int j=0;j<containedBoxes[i].size();j++){
                 graph[i].push_back(containedBoxes[i][j]);
@@ -20,7 +21,7 @@ public:
         while(!q.empty()){
             int box = q.front();
             q.pop();
-            //cout<<box<<"\n";
+
             if(vis[box] == 0){
                 vis[box] = 1;
                 if(status[box] == 1){
@@ -42,8 +43,7 @@ public:
                 }
             }
         }
-        cout<<opened<<"\n";
-        return totalCandies;
 
+        return totalCandies;
     }
 };
