@@ -38,7 +38,7 @@ public:
                     }
 
                     for(int i=0;i<graph[box].size();i++){
-                        q.push(graph[box][i]);
+                        if(vis[graph[box][i]] == 0) q.push(graph[box][i]);
                     }
                 }
             }
