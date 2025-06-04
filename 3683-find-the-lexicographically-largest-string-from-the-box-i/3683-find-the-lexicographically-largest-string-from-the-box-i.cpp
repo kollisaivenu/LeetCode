@@ -4,10 +4,33 @@ public:
         if(numFriends == 1){
             return word;
         }
+
         priority_queue<pair<int, int>>pq;
         string ans = "";
-        for(int i=0;i<word.size();i++){
-            pq.push(make_pair(word[i]-'a', i));
+        int maxChar = 0;
+        for(int i=0;i<word.length();i++){
+            maxChar = max(maxChar, word[i]-'a');
+        }
+        vector<int>indices;
+        for(int i=0;i<word.length();i++){
+            if((word[i]-'a') == maxChar){
+
+                if(i >= numFriends-1){
+                    string temp = getSubString(word, i, word.size()-1);
+
+                    if(temp > ans){
+                        ans = temp;
+                    }
+                } else {
+                    int leftToGetCharacter = numFriends - i - 1;
+                    string temp = getSubString(word, i, word.size()-1-leftToGetCharacter);
+                
+                    if(temp > ans){
+                        ans = temp;
+                    }
+            }
+                
+            }
         }
 
         while(!pq.empty()){
