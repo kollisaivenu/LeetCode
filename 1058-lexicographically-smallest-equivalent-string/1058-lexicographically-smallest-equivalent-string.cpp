@@ -20,7 +20,7 @@ public:
         return ans;
     }
 
-    int find(int i, vector<int>parent){
+    int find(int i, vector<int>&parent){
         if(parent[i] == i){
             return i;
         }
