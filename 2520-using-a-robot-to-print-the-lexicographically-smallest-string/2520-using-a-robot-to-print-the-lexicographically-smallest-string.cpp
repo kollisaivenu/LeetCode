@@ -3,10 +3,13 @@ public:
     string robotWithString(string s) {
         stack<char>stk1,stk2;
         string ans = "";
+
         for(int i=0;i<s.size();i++){
+
             if(stk1.empty() || stk1.top() <= s[i]){
                 stk1.push(s[i]);
             } else if(stk1.top() > s[i]){
+
                 while(!stk1.empty() && stk1.top() > s[i]){
                     stk1.pop();
                 }
@@ -20,6 +23,7 @@ public:
         }
 
         for(int i=0;i<s.size();i++){
+            
             if(!stk2.empty() && s[i] == stk2.top()){
                 ans += s[i];
                 stk2.pop();
