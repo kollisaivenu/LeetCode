@@ -1,23 +1,22 @@
 class Solution {
 public:
     string robotWithString(string s) {
-        stack<char>stk,stk2;
+        stack<char>stk1,stk2;
         string ans = "";
         for(int i=0;i<s.size();i++){
-            if(stk.empty() || stk.top() <= s[i]){
-                stk.push(s[i]);
-            } else if(stk.top() > s[i]){
-                while(!stk.empty() && stk.top() > s[i]){
-                    stk.pop();
+            if(stk1.empty() || stk1.top() <= s[i]){
+                stk1.push(s[i]);
+            } else if(stk1.top() > s[i]){
+                while(!stk1.empty() && stk1.top() > s[i]){
+                    stk1.pop();
                 }
-                stk.push(s[i]);
+                stk1.push(s[i]);
             }
         }
 
-        while(!stk.empty()){
-            //cout<<stk.top()<<"\n";
-            stk2.push(stk.top());
-            stk.pop();
+        while(!stk1.empty()){
+            stk2.push(stk1.top());
+            stk1.pop();
         }
 
         for(int i=0;i<s.size();i++){
@@ -25,18 +24,18 @@ public:
                 ans += s[i];
                 stk2.pop();
 
-                while(!stk.empty() && !stk2.empty() && stk.top() <= stk2.top()){
-                    ans += stk.top();
-                    stk.pop();
+                while(!stk1.empty() && !stk2.empty() && stk1.top() <= stk2.top()){
+                    ans += stk1.top();
+                    stk1.pop();
                 }
             } else {
-                stk.push(s[i]);
+                stk1.push(s[i]);
             }
         }
 
-        while(!stk.empty()){
-            ans += stk.top();
-            stk.pop();
+        while(!stk1.empty()){
+            ans += stk1.top();
+            stk1.pop();
         }
 
         return ans;
