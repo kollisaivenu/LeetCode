@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kollisaivenu/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kollisaivenu/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kollisaivenu/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kollisaivenu/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/kollisaivenu/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kollisaivenu/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kollisaivenu/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/kollisaivenu/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kollisaivenu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kollisaivenu/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kollisaivenu/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kollisaivenu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3548-find-the-count-of-good-integers](https://github.com/kollisaivenu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kollisaivenu/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kollisaivenu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kollisaivenu/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kollisaivenu/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/kollisaivenu/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2887-sort-vowels-in-a-string](https://github.com/kollisaivenu/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kollisaivenu/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kollisaivenu/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kollisaivenu/LeetCode/tree/master/0143-reorder-list) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kollisaivenu/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Monotonic Stack
 |  |
 | ------- |
