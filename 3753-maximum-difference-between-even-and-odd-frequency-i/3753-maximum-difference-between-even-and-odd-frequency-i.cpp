@@ -6,7 +6,9 @@ public:
         for(int i=0;i<s.length();i++){
             freq[s[i]-'a']++;
         }
+
         int max_odd_freq = INT_MIN, min_even_freq = INT_MAX;
+        
         for(int i=0;i<26;i++){
             if(freq[i]%2 == 0 && freq[i] != 0){
                 min_even_freq = min(min_even_freq, freq[i]);
