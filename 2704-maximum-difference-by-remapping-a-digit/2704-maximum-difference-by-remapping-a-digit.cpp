@@ -30,11 +30,8 @@ public:
                 smallestNumInStr[i] = '0';
             }
         }
-
-        //cout<<smallestNumInStr<<"\n";
         
         int smallestNum = stoi(smallestNumInStr);
-        //cout<<largestNum<<" "<<smallestNum<<"\n";
 
         return largestNum - smallestNum;
     }
