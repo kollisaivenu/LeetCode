@@ -4,6 +4,7 @@ public:
         vector<string>ans;
         int j=0;
         string word = "";
+        
         for(int i=0;i<s.length();i++){
             if(j<k){
                 word += s[i];
