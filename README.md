@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/kollisaivenu/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/kollisaivenu/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kollisaivenu/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2478-longest-nice-subarray](https://github.com/kollisaivenu/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kollisaivenu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/kollisaivenu/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/kollisaivenu/LeetCode/tree/master/0768-partition-labels) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kollisaivenu/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
