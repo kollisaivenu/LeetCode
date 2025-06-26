@@ -10,6 +10,7 @@ public:
         }
         int place = 0, ones = 0;
         long long no = 0;
+
         for(int i=s.length()-1;i>=0;i--){
             if(s[i] == '1'){
                 if(place <= 32){
@@ -18,7 +19,7 @@ public:
                     break;
                 }
                 
-                if(no<=k){
+                if(no <= k){
                     ones++;
                 } else {
                     break;
