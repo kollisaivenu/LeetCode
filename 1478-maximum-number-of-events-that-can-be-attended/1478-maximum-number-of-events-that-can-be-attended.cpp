@@ -13,7 +13,7 @@ public:
 
         for(int i=0,j=0;i<=maxDay;i++){
             while(j<n && events[j][0] <= i){
-                pq.push(events[j][1]);
+                pq.emplace(events[j][1]);
                 j++;
             }
 
