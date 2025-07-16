@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/kollisaivenu/LeetCode/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/kollisaivenu/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/kollisaivenu/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/kollisaivenu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/kollisaivenu/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/kollisaivenu/LeetCode/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/kollisaivenu/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kollisaivenu/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/kollisaivenu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/kollisaivenu/LeetCode/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/kollisaivenu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/kollisaivenu/LeetCode/tree/master/0403-frog-jump) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kollisaivenu/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/kollisaivenu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kollisaivenu/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kollisaivenu/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
