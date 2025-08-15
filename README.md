@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kollisaivenu/LeetCode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0043-multiply-strings) |
+| [0326-power-of-three](https://github.com/kollisaivenu/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/kollisaivenu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/kollisaivenu/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0797-rabbits-in-forest](https://github.com/kollisaivenu/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kollisaivenu/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/kollisaivenu/LeetCode/tree/master/0143-reorder-list) |
+| [0326-power-of-three](https://github.com/kollisaivenu/LeetCode/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/kollisaivenu/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kollisaivenu/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
