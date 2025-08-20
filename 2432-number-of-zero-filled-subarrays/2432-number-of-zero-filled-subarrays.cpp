@@ -1,19 +1,19 @@
 class Solution {
 public:
     long long zeroFilledSubarray(vector<int>& nums) {
-        vector<long long>dp(nums.size(), 0);
         long long sum = 0;
+        long long prev = 0;
         for(int i=0;i<nums.size();i++){
+            long long curr = 0;
             if(nums[i] == 0){
                 if(i == 0){
-                    dp[i] = 1;
+                    curr = 1;
                 } else {
-                    dp[i] = 1 + dp[i-1];
+                    curr = 1 + prev;
                 }
-            } else {
-                dp[i] = 0;
             }
-            sum += dp[i];
+            sum += curr;
+            prev = curr;
         }
 
         return sum;
