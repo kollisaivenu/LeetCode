@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kollisaivenu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/kollisaivenu/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kollisaivenu/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kollisaivenu/LeetCode/tree/master/0075-sort-colors) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kollisaivenu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/kollisaivenu/LeetCode/tree/master/0041-first-missing-positive) |
 | [0389-find-the-difference](https://github.com/kollisaivenu/LeetCode/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kollisaivenu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/kollisaivenu/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kollisaivenu/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
