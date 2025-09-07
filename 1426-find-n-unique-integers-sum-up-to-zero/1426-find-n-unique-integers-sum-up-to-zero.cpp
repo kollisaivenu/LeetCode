@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> sumZero(int n) {
         vector<int>ans;
-        ans.reserve(n);
+        //ans.reserve(n);
         if(n%2 == 0){
             int mid = n/2;
 
