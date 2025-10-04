@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kollisaivenu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/kollisaivenu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/kollisaivenu/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kollisaivenu/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kollisaivenu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/kollisaivenu/LeetCode/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/kollisaivenu/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/kollisaivenu/LeetCode/tree/master/0768-partition-labels) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kollisaivenu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/kollisaivenu/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kollisaivenu/LeetCode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/kollisaivenu/LeetCode/tree/master/0143-reorder-list) |
