@@ -7,17 +7,11 @@ public:
             freq[points[i][1]]++;
         }
 
-        vector<long long>numOfLines;
-
-        for(const auto& pair : freq){
-            numOfLines.push_back(sumToN(pair.second-1));
-        }
-
         long long initialSum = 0, ans=0;
-
-        for(int i=0;i<numOfLines.size();i++){
-            ans += initialSum*numOfLines[i];
-            initialSum += numOfLines[i];
+        for(const auto& pair : freq){
+            long long sum = sumToN(pair.second-1);
+            ans += initialSum*sum;
+            initialSum += sum;
         }
 
         return ans%1000000007;
