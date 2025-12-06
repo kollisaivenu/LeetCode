@@ -7,7 +7,7 @@ public:
             if(i+k >= energy.size()){
                 dp[i] = energy[i];
             } else {
-                dp[i] = energy[i] +dp[i+k];
+                dp[i] = energy[i] + dp[i+k];
             }
 
             maxEnergy = max(maxEnergy, dp[i]);
