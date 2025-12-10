@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/kollisaivenu/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kollisaivenu/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/kollisaivenu/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/kollisaivenu/LeetCode/tree/master/3583-count-special-triplets) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/kollisaivenu/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kollisaivenu/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kollisaivenu/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kollisaivenu/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/kollisaivenu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/kollisaivenu/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kollisaivenu/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/kollisaivenu/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3623-count-number-of-trapezoids-i](https://github.com/kollisaivenu/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/kollisaivenu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/kollisaivenu/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kollisaivenu/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Iterator
 |  |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kollisaivenu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/kollisaivenu/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/kollisaivenu/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Segment Tree
 |  |
 | ------- |
