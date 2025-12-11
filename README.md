@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/kollisaivenu/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kollisaivenu/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/kollisaivenu/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/kollisaivenu/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/kollisaivenu/LeetCode/tree/master/3583-count-special-triplets) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/kollisaivenu/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/kollisaivenu/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kollisaivenu/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kollisaivenu/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3531-count-covered-buildings](https://github.com/kollisaivenu/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3548-find-the-count-of-good-integers](https://github.com/kollisaivenu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3583-count-special-triplets](https://github.com/kollisaivenu/LeetCode/tree/master/3583-count-special-triplets) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/kollisaivenu/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/kollisaivenu/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kollisaivenu/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/kollisaivenu/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3531-count-covered-buildings](https://github.com/kollisaivenu/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kollisaivenu/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kollisaivenu/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/kollisaivenu/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
