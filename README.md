@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/kollisaivenu/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0526-beautiful-arrangement](https://github.com/kollisaivenu/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/kollisaivenu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/kollisaivenu/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/kollisaivenu/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/kollisaivenu/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/kollisaivenu/LeetCode/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/kollisaivenu/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kollisaivenu/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kollisaivenu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/kollisaivenu/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/kollisaivenu/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0868-push-dominoes](https://github.com/kollisaivenu/LeetCode/tree/master/0868-push-dominoes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kollisaivenu/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kollisaivenu/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/kollisaivenu/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1211-iterator-for-combination](https://github.com/kollisaivenu/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kollisaivenu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kollisaivenu/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -743,4 +747,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/kollisaivenu/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/kollisaivenu/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/kollisaivenu/LeetCode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
