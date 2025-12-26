@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2861-maximum-number-of-alloys](https://github.com/kollisaivenu/LeetCode/tree/master/2861-maximum-number-of-alloys) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kollisaivenu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kollisaivenu/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/kollisaivenu/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kollisaivenu/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kollisaivenu/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kollisaivenu/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kollisaivenu/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/kollisaivenu/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kollisaivenu/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kollisaivenu/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kollisaivenu/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/kollisaivenu/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kollisaivenu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kollisaivenu/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/kollisaivenu/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kollisaivenu/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/kollisaivenu/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kollisaivenu/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
