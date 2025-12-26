@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/kollisaivenu/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/kollisaivenu/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/kollisaivenu/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/kollisaivenu/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2625-increment-submatrices-by-one](https://github.com/kollisaivenu/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kollisaivenu/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kollisaivenu/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kollisaivenu/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kollisaivenu/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/kollisaivenu/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kollisaivenu/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/kollisaivenu/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2887-sort-vowels-in-a-string](https://github.com/kollisaivenu/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
