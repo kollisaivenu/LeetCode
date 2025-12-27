@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/kollisaivenu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/kollisaivenu/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kollisaivenu/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0946-validate-stack-sequences](https://github.com/kollisaivenu/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kollisaivenu/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kollisaivenu/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kollisaivenu/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0043-multiply-strings) |
 | [0498-diagonal-traverse](https://github.com/kollisaivenu/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0946-validate-stack-sequences](https://github.com/kollisaivenu/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/kollisaivenu/LeetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/kollisaivenu/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kollisaivenu/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kollisaivenu/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kollisaivenu/LeetCode/tree/master/0143-reorder-list) |
+| [0946-validate-stack-sequences](https://github.com/kollisaivenu/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1762-buildings-with-an-ocean-view](https://github.com/kollisaivenu/LeetCode/tree/master/1762-buildings-with-an-ocean-view) |
 | [2211-count-collisions-on-a-road](https://github.com/kollisaivenu/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kollisaivenu/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
