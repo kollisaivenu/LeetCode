@@ -14,7 +14,7 @@ public:
                 i++;
             }
         }
-        cout<<"came here\n";
+        
         if(i < pushed.size() && j == popped.size()) {
             return true;
         } else if (i == pushed.size()) {
