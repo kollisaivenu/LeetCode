@@ -8,11 +8,11 @@ public:
             possibleTopChar[key].push_back(allowed[i][2]);
         }
         string top;
-        top.reserve(bottom.length()-1);
+        top.reserve(bottom.length()-1);;
         return check(bottom, top, possibleTopChar);
     }
 
-    bool check(string &bottom, string top, unordered_map<string, vector<char>>&possibleTopChar) {
+    bool check(string &bottom, string &top, unordered_map<string, vector<char>>&possibleTopChar) {
         if(top.length() == bottom.length() - 1) {
             if(top.length() == 1) {
                 return true;
@@ -27,7 +27,9 @@ public:
         int index = top.length()+1;
         string key = {bottom[index-1], bottom[index]};
         for(int i=0;i<possibleTopChar[key].size();i++) {
-            possible = possible || check(bottom, top + possibleTopChar[key][i], possibleTopChar);
+            top += possibleTopChar[key][i];
+            possible = possible || check(bottom, top, possibleTopChar);
+            top.pop_back();
         }
         return possible;
     }
