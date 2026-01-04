@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kollisaivenu/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/kollisaivenu/LeetCode/tree/master/1656-count-good-triplets) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1762-buildings-with-an-ocean-view](https://github.com/kollisaivenu/LeetCode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1813-maximum-erasure-value](https://github.com/kollisaivenu/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/kollisaivenu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/kollisaivenu/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1813-maximum-erasure-value](https://github.com/kollisaivenu/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kollisaivenu/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kollisaivenu/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kollisaivenu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kollisaivenu/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/kollisaivenu/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
