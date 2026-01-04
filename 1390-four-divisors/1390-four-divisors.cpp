@@ -6,7 +6,6 @@ public:
             int div = check(nums[i]);
 
             if(div > 0) {
-                cout<<nums[i]<<"\n";
                 ans = ans + 1 + nums[i] + div + nums[i]/div;
             }
         }
