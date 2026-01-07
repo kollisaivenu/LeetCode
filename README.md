@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kollisaivenu/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kollisaivenu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/kollisaivenu/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kollisaivenu/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kollisaivenu/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kollisaivenu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/kollisaivenu/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kollisaivenu/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/kollisaivenu/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kollisaivenu/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kollisaivenu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/kollisaivenu/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
