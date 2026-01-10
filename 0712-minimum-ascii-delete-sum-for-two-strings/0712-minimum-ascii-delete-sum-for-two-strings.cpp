@@ -23,16 +23,15 @@ public:
             return to_delete;
         }
 
-
         int ans = INT_MAX;
 
         if(s1[i] == s2[j]) {
-
             if(dp[i+1][j+1] == -1) {
                 dp[i+1][j+1] = recur(s1, s2, i+1, j+1, dp);
             }
             ans = min(ans, dp[i+1][j+1]);
         }
+        
         if(dp[i+1][j] == -1) {
             dp[i+1][j] = recur(s1, s2, i+1, j, dp);
         }
