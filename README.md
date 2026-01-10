@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kollisaivenu/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kollisaivenu/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kollisaivenu/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-smallest-all-ones-multiple](https://github.com/kollisaivenu/LeetCode/tree/master/3790-smallest-all-ones-multiple) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kollisaivenu/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kollisaivenu/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kollisaivenu/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kollisaivenu/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3790-smallest-all-ones-multiple](https://github.com/kollisaivenu/LeetCode/tree/master/3790-smallest-all-ones-multiple) |
 | [3830-find-closest-person](https://github.com/kollisaivenu/LeetCode/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
