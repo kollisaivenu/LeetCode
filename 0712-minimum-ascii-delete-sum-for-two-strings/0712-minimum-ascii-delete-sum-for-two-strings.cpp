@@ -2,8 +2,7 @@ class Solution {
 public:
     int minimumDeleteSum(string s1, string s2) {
         vector<vector<int>>dp(s1.length()+1, vector<int>(s2.length()+1, -1));
-        return recur(s1, s2, 0, 0, dp);
-        
+        return recur(s1, s2, 0, 0, dp);   
     }
 
     int recur(string &s1, string &s2, int i, int j, vector<vector<int>>&dp){
@@ -31,7 +30,7 @@ public:
             }
             ans = min(ans, dp[i+1][j+1]);
         }
-        
+
         if(dp[i+1][j] == -1) {
             dp[i+1][j] = recur(s1, s2, i+1, j, dp);
         }
