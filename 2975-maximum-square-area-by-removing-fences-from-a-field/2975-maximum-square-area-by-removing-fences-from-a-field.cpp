@@ -39,6 +39,7 @@ public:
         if(maxL == INT_MIN) {
             return -1;
         }
+        
         int area = ((long long)maxL*maxL)%1000000007;
         return area;
     }
