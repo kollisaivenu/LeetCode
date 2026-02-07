@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/kollisaivenu/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kollisaivenu/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/kollisaivenu/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3639-zero-array-transformation-i](https://github.com/kollisaivenu/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kollisaivenu/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kollisaivenu/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kollisaivenu/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kollisaivenu/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/kollisaivenu/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Queue
 |  |
 | ------- |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/kollisaivenu/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/kollisaivenu/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kollisaivenu/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3634-minimum-removals-to-balance-array](https://github.com/kollisaivenu/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kollisaivenu/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/kollisaivenu/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/kollisaivenu/LeetCode/tree/master/3778-transform-array-by-parity) |
