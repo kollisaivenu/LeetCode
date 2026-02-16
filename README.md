@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kollisaivenu/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/kollisaivenu/LeetCode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/kollisaivenu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/kollisaivenu/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/kollisaivenu/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/kollisaivenu/LeetCode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/kollisaivenu/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0249-group-shifted-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0389-find-the-difference](https://github.com/kollisaivenu/LeetCode/tree/master/0389-find-the-difference) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kollisaivenu/LeetCode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/kollisaivenu/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kollisaivenu/LeetCode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/kollisaivenu/LeetCode/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/kollisaivenu/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/kollisaivenu/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -826,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/kollisaivenu/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/kollisaivenu/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0946-validate-stack-sequences](https://github.com/kollisaivenu/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/kollisaivenu/LeetCode/tree/master/1642-water-bottles) |
