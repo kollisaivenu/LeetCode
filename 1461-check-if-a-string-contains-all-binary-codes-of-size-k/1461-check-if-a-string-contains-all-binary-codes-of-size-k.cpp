@@ -1,28 +1,27 @@
 class Solution {
 public:
     bool hasAllCodes(string s, int k) {
-        unordered_map<string, bool>m;
-        
-
+        unordered_set<string>set;
         if(s.length() < k) {
             return false;
         }
-        string ans;
-        ans.reserve(k);
+        string substr;
+        substr.reserve(k);
         for(int i=0;i<k;i++){
-            ans += s[i];
+            substr += s[i];
         }
 
-        m[ans] = true;
+        set.insert(substr);
         for(int j=k;j<s.length();j++){
-            shiftleft(ans);
-            ans[k-1] = s[j];
-            m[ans] = true;
+            shiftleft(substr);
+            substr[k-1] = s[j];
+            set.insert(substr);
         }
 
-        if(m.size() == 1 << k){
+        if(set.size() == 1 << k){
             return true;
         }
+
         return false;
         
     }
