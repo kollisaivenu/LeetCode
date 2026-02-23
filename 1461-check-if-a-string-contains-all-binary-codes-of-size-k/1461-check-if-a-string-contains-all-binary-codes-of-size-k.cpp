@@ -20,7 +20,7 @@ public:
             m[ans] = true;
         }
 
-        if(m.size() == pow(2, k)){
+        if(m.size() == 1 << k){
             return true;
         }
         return false;
