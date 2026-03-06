@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kollisaivenu/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/kollisaivenu/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kollisaivenu/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/kollisaivenu/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kollisaivenu/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kollisaivenu/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
