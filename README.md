@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/kollisaivenu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kollisaivenu/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/kollisaivenu/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/kollisaivenu/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kollisaivenu/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kollisaivenu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kollisaivenu/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/kollisaivenu/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1813-maximum-erasure-value](https://github.com/kollisaivenu/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1980-find-unique-binary-string](https://github.com/kollisaivenu/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kollisaivenu/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kollisaivenu/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/kollisaivenu/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kollisaivenu/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/kollisaivenu/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/kollisaivenu/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kollisaivenu/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kollisaivenu/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/kollisaivenu/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1211-iterator-for-combination](https://github.com/kollisaivenu/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kollisaivenu/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1980-find-unique-binary-string](https://github.com/kollisaivenu/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kollisaivenu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kollisaivenu/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Graph
