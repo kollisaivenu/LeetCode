@@ -13,7 +13,6 @@ public:
                 } else if(matrix[i][j] == 1) {
                     grid[i][j] = grid[i-1][j] + 1;
                 }
-                // cout<<"i="<<i<<",j="<<j<<","<<grid[i][j]<<"\n";
             }
 
         }
