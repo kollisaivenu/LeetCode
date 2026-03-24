@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2861-maximum-number-of-alloys](https://github.com/kollisaivenu/LeetCode/tree/master/2861-maximum-number-of-alloys) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kollisaivenu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2898-maximum-linear-stock-score](https://github.com/kollisaivenu/LeetCode/tree/master/2898-maximum-linear-stock-score) |
+| [2906-construct-product-matrix](https://github.com/kollisaivenu/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kollisaivenu/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/kollisaivenu/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kollisaivenu/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/kollisaivenu/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/kollisaivenu/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2625-increment-submatrices-by-one](https://github.com/kollisaivenu/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/kollisaivenu/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kollisaivenu/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kollisaivenu/LeetCode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kollisaivenu/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/kollisaivenu/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/kollisaivenu/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/kollisaivenu/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kollisaivenu/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kollisaivenu/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/kollisaivenu/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
