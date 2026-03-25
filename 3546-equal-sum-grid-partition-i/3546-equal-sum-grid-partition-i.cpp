@@ -11,7 +11,7 @@ public:
             }
         }
         int64_t currSum = 0;
-        for(int i=0;i<rows-1;i++) {
+        for(int i=0;i<rows;i++) {
             for(int j=0;j<cols;j++) {
                 currSum += grid[i][j];
             }
@@ -22,7 +22,7 @@ public:
         }
 
         currSum = 0;
-        for(int i=0;i<cols-1;i++) {
+        for(int i=0;i<cols;i++) {
             for(int j=0;j<rows;j++) {
                 currSum += grid[j][i];
             }
