@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0868-push-dominoes](https://github.com/kollisaivenu/LeetCode/tree/master/0868-push-dominoes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kollisaivenu/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kollisaivenu/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kollisaivenu/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kollisaivenu/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/kollisaivenu/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1211-iterator-for-combination](https://github.com/kollisaivenu/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kollisaivenu/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kollisaivenu/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kollisaivenu/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kollisaivenu/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kollisaivenu/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
