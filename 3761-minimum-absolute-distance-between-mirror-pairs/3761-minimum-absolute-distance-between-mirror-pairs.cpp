@@ -8,6 +8,7 @@ public:
             rev.push_back(rev_num);
             rev_index[nums[i]].push_back(i);
         }
+        
         int ans = INT_MAX;
         for(int i=0; i<nums.size();i++) {
             if(rev_index[rev[i]].size() == 0) {
@@ -22,13 +23,7 @@ public:
                 }
             } else if(index == rev_index[rev[i]].size()-1) {
                 continue;
-                // if(i != rev_index[rev[i]][index]) {
-                //     ans = min(ans, abs(i - rev_index[rev[i]][index]));
-                // }
             } else {
-                // if(i != rev_index[rev[i]][index]) {
-                //     ans = min(ans, abs(i - rev_index[rev[i]][index]));
-                // }
                 if(i != rev_index[rev[i]][index+1]) {
                     ans = min(ans, abs(i - rev_index[rev[i]][index+1]));
                 }
@@ -37,7 +32,7 @@ public:
         if(ans == INT_MAX) {
             return -1;
         }
-        
+
         return ans;
     }
 
