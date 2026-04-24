@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kollisaivenu/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kollisaivenu/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kollisaivenu/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/kollisaivenu/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2478-longest-nice-subarray](https://github.com/kollisaivenu/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kollisaivenu/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kollisaivenu/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kollisaivenu/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kollisaivenu/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kollisaivenu/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/kollisaivenu/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/kollisaivenu/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kollisaivenu/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kollisaivenu/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -987,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/kollisaivenu/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/kollisaivenu/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/kollisaivenu/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Number Theory
 |  |
 | ------- |
