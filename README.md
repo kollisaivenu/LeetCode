@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/kollisaivenu/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/kollisaivenu/LeetCode/tree/master/0788-rotated-digits) |
 | [0868-push-dominoes](https://github.com/kollisaivenu/LeetCode/tree/master/0868-push-dominoes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kollisaivenu/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kollisaivenu/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/kollisaivenu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/kollisaivenu/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kollisaivenu/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/kollisaivenu/LeetCode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/kollisaivenu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/kollisaivenu/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/kollisaivenu/LeetCode/tree/master/0900-reordered-power-of-2) |
