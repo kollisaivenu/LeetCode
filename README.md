@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kollisaivenu/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kollisaivenu/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kollisaivenu/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/kollisaivenu/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/kollisaivenu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kollisaivenu/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/kollisaivenu/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/kollisaivenu/LeetCode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kollisaivenu/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kollisaivenu/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/kollisaivenu/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kollisaivenu/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/kollisaivenu/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kollisaivenu/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -959,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kollisaivenu/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/kollisaivenu/LeetCode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kollisaivenu/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/kollisaivenu/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/kollisaivenu/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kollisaivenu/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/kollisaivenu/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
