@@ -5,11 +5,7 @@ public:
         int i=0,j=0, ans = 0;
 
         while(j<s.length()) {
-            if(present[s[j]] == true) {
-                while(s[i] != s[j]) {
-                    present.erase(s[i]);
-                    i++;
-                }
+            while(present[s[j]] == true) {
                 present.erase(s[i]);
                 i++;
             }
