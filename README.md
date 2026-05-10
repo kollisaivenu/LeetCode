@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kollisaivenu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/kollisaivenu/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/kollisaivenu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kollisaivenu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/kollisaivenu/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/kollisaivenu/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kollisaivenu/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0359-logger-rate-limiter](https://github.com/kollisaivenu/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0389-find-the-difference](https://github.com/kollisaivenu/LeetCode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/kollisaivenu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/kollisaivenu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kollisaivenu/LeetCode/tree/master/0567-permutation-in-string) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/kollisaivenu/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0249-group-shifted-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0389-find-the-difference](https://github.com/kollisaivenu/LeetCode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/kollisaivenu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kollisaivenu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/kollisaivenu/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/kollisaivenu/LeetCode/tree/master/0696-count-binary-substrings) |
