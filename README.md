@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kollisaivenu/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/kollisaivenu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/kollisaivenu/LeetCode/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kollisaivenu/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/kollisaivenu/LeetCode/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/kollisaivenu/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0249-group-shifted-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0249-group-shifted-strings) |
@@ -917,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kollisaivenu/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/kollisaivenu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kollisaivenu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/kollisaivenu/LeetCode/tree/master/0611-valid-triangle-number) |
