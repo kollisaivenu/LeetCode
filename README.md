@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kollisaivenu/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kollisaivenu/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kollisaivenu/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kollisaivenu/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kollisaivenu/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kollisaivenu/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kollisaivenu/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kollisaivenu/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kollisaivenu/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -945,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kollisaivenu/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kollisaivenu/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kollisaivenu/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Counting
