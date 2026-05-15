@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kollisaivenu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kollisaivenu/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/kollisaivenu/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/kollisaivenu/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/kollisaivenu/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -1011,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kollisaivenu/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kollisaivenu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kollisaivenu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/kollisaivenu/LeetCode/tree/master/3433-count-mentions-per-user) |
