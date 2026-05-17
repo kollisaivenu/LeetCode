@@ -22,7 +22,8 @@ public:
         if(a == parent[a]) {
             return a;
         }
-        return find(parent[a], parent);
+        parent[a] = find(parent[a], parent);
+        return parent[a];
     }
 
     void un(int a, int b, vector<int>&parent) {
