@@ -18,24 +18,24 @@ public:
             q.pop();
             int x = p.first;
             int y = p.second;
-            if(rooms[x][y] > dist) {
-                rooms[x][y] = dist;
-            }   
-            
             
             if(x-1 >= 0 && rooms[x-1][y] > dist+1) {
+                rooms[x-1][y] = dist+1;
                 q.push(make_pair(make_pair(x-1, y), dist+1));
             }
 
             if(y-1 >= 0 && rooms[x][y-1] > dist+1) {
+                rooms[x][y-1] = dist+1;
                 q.push(make_pair(make_pair(x, y-1), dist+1));
             }
 
             if(x+1 < rows && rooms[x+1][y] > dist+1) {
+                rooms[x+1][y] = dist+1;
                 q.push(make_pair(make_pair(x+1, y), dist+1));
             }
 
             if(y+1 < cols && rooms[x][y+1] > dist+1) {
+                rooms[x][y+1] = dist+1;
                 q.push(make_pair(make_pair(x, y+1), dist+1));
             }
         }
