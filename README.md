@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/kollisaivenu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/kollisaivenu/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/kollisaivenu/LeetCode/tree/master/0846-hand-of-straights) |
 | [0874-walking-robot-simulation](https://github.com/kollisaivenu/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/kollisaivenu/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kollisaivenu/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/kollisaivenu/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/kollisaivenu/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/kollisaivenu/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0846-hand-of-straights](https://github.com/kollisaivenu/LeetCode/tree/master/0846-hand-of-straights) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/kollisaivenu/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1029-two-city-scheduling](https://github.com/kollisaivenu/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kollisaivenu/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/kollisaivenu/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/kollisaivenu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/kollisaivenu/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/kollisaivenu/LeetCode/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/kollisaivenu/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kollisaivenu/LeetCode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/kollisaivenu/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/kollisaivenu/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0846-hand-of-straights](https://github.com/kollisaivenu/LeetCode/tree/master/0846-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/kollisaivenu/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1029-two-city-scheduling](https://github.com/kollisaivenu/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kollisaivenu/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
