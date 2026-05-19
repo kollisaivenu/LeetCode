@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kollisaivenu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kollisaivenu/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/kollisaivenu/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2540-minimum-common-value](https://github.com/kollisaivenu/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/kollisaivenu/LeetCode/tree/master/2625-increment-submatrices-by-one) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kollisaivenu/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kollisaivenu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kollisaivenu/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2540-minimum-common-value](https://github.com/kollisaivenu/LeetCode/tree/master/2540-minimum-common-value) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kollisaivenu/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2784-check-if-array-is-good](https://github.com/kollisaivenu/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kollisaivenu/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kollisaivenu/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kollisaivenu/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/kollisaivenu/LeetCode/tree/master/2540-minimum-common-value) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kollisaivenu/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -971,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/kollisaivenu/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kollisaivenu/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kollisaivenu/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2540-minimum-common-value](https://github.com/kollisaivenu/LeetCode/tree/master/2540-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2861-maximum-number-of-alloys](https://github.com/kollisaivenu/LeetCode/tree/master/2861-maximum-number-of-alloys) |
