@@ -4,7 +4,7 @@ public:
         sort(nums1.begin(), nums1.end());
         sort(nums2.begin(), nums2.end());
 
-        map<int, int>freq;
+        unordered_map<int, int>freq;
 
         for(int i=0;i<nums1.size();i++) {
             freq[nums1[i]]++;
