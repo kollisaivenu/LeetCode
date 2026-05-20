@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kollisaivenu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/kollisaivenu/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kollisaivenu/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/kollisaivenu/LeetCode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/kollisaivenu/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kollisaivenu/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/kollisaivenu/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kollisaivenu/LeetCode/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/kollisaivenu/LeetCode/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0494-target-sum) |
