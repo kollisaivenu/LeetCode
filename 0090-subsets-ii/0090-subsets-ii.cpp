@@ -9,7 +9,7 @@ public:
         return ans;
     }
 
-    void subset(vector<vector<int>>&ans, set<vector<int>>&vis, vector<int>&nums, int i, vector<int>array) {
+    void subset(vector<vector<int>>&ans, set<vector<int>>&vis, vector<int>&nums, int i, vector<int>&array) {
         if(i == nums.size()) {
             if(!vis.contains(array)) {
                 ans.push_back(array);
@@ -20,6 +20,7 @@ public:
 
         subset(ans, vis, nums, i+1, array);
         array.push_back(nums[i]);
-        subset(ans, vis, nums, i+1, array);        
+        subset(ans, vis, nums, i+1, array);
+        array.pop_back();        
     }
 };
