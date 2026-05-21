@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kollisaivenu/LeetCode/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/kollisaivenu/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0249-group-shifted-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0249-group-shifted-strings) |
+| [0269-alien-dictionary](https://github.com/kollisaivenu/LeetCode/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/kollisaivenu/LeetCode/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/kollisaivenu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kollisaivenu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kollisaivenu/LeetCode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/kollisaivenu/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0249-group-shifted-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0249-group-shifted-strings) |
+| [0269-alien-dictionary](https://github.com/kollisaivenu/LeetCode/tree/master/0269-alien-dictionary) |
 | [0389-find-the-difference](https://github.com/kollisaivenu/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/kollisaivenu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kollisaivenu/LeetCode/tree/master/0567-permutation-in-string) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0269-alien-dictionary](https://github.com/kollisaivenu/LeetCode/tree/master/0269-alien-dictionary) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kollisaivenu/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kollisaivenu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Depth-First Search
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kollisaivenu/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kollisaivenu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0261-graph-valid-tree](https://github.com/kollisaivenu/LeetCode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/kollisaivenu/LeetCode/tree/master/0269-alien-dictionary) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kollisaivenu/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/kollisaivenu/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0386-lexicographical-numbers](https://github.com/kollisaivenu/LeetCode/tree/master/0386-lexicographical-numbers) |
@@ -644,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/kollisaivenu/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0261-graph-valid-tree](https://github.com/kollisaivenu/LeetCode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/kollisaivenu/LeetCode/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/kollisaivenu/LeetCode/tree/master/0286-walls-and-gates) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kollisaivenu/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/kollisaivenu/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -1148,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/kollisaivenu/LeetCode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/kollisaivenu/LeetCode/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/kollisaivenu/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kollisaivenu/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kollisaivenu/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
