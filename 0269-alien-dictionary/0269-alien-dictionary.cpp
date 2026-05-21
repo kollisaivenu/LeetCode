@@ -57,9 +57,6 @@ public:
         }
 
         if(topo.size() != graph.size()) {
-            cout<<topo.size()<<"\n";
-            cout<<graph.size()<<"\n";
-            cout<<"came here\n";
             return "";
         }
         string str = "";
