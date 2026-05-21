@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kollisaivenu/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kollisaivenu/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kollisaivenu/LeetCode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/kollisaivenu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kollisaivenu/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kollisaivenu/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/kollisaivenu/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kollisaivenu/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kollisaivenu/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/kollisaivenu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/kollisaivenu/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kollisaivenu/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -1152,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kollisaivenu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/kollisaivenu/LeetCode/tree/master/0190-reverse-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kollisaivenu/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/kollisaivenu/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
