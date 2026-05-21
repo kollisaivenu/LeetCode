@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kollisaivenu/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kollisaivenu/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kollisaivenu/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/kollisaivenu/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kollisaivenu/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/kollisaivenu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kollisaivenu/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kollisaivenu/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kollisaivenu/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kollisaivenu/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/kollisaivenu/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1917-maximum-average-pass-ratio](https://github.com/kollisaivenu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/kollisaivenu/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kollisaivenu/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
