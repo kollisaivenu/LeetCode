@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        bool decreasing = decreasing;
         int i=1;
         for(;i<nums.size();i++) {
             if(nums[i]>=nums[i-1]) {
