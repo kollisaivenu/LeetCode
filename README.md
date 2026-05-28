@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/kollisaivenu/LeetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kollisaivenu/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kollisaivenu/LeetCode/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/kollisaivenu/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/kollisaivenu/LeetCode/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/kollisaivenu/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0249-group-shifted-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0249-group-shifted-strings) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/kollisaivenu/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kollisaivenu/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kollisaivenu/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kollisaivenu/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kollisaivenu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0261-graph-valid-tree](https://github.com/kollisaivenu/LeetCode/tree/master/0261-graph-valid-tree) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/kollisaivenu/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kollisaivenu/LeetCode/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/kollisaivenu/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/kollisaivenu/LeetCode/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/kollisaivenu/LeetCode/tree/master/0286-walls-and-gates) |
@@ -893,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/kollisaivenu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/kollisaivenu/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/kollisaivenu/LeetCode/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/kollisaivenu/LeetCode/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kollisaivenu/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/kollisaivenu/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -1193,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kollisaivenu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/kollisaivenu/LeetCode/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/kollisaivenu/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/kollisaivenu/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0684-redundant-connection](https://github.com/kollisaivenu/LeetCode/tree/master/0684-redundant-connection) |
