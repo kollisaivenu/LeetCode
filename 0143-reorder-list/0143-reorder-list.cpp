@@ -11,35 +11,37 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        ListNode *slowPointer = head, *fastPointer = head;
+        ListNode* slow = head, *fast = head, *p;
 
-        // Divide the lists into 2 halves
-        while(fastPointer->next && fastPointer->next->next){
-            slowPointer = slowPointer->next;
-            fastPointer = fastPointer->next->next;
+        while(fast != NULL && fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        ListNode *firstList = head, *secondList = slowPointer->next;
-        slowPointer->next = NULL;
 
+        ListNode* head_sec_list = slow;
         // Reverse the second list
 
-        ListNode *prev = NULL, *curr = secondList, *next = NULL;
+        ListNode* prev = NULL, *curr = head_sec_list;
 
-        while(curr){
-            next = curr->next;
+        while(curr) {
+            ListNode* temp = curr->next;
             curr->next = prev;
             prev = curr;
-            curr = next;
+            curr = temp;
         }
-        secondList = prev;
-        
-        while(secondList){
-            ListNode* temp1 = firstList->next;
-            ListNode* temp2 = secondList->next;
-            firstList->next = secondList;
-            secondList->next = temp1;
-            firstList = temp1;
-            secondList = temp2;
+
+        head_sec_list = prev;
+        // while(head_sec_list) {
+        //     cout<<head_sec_list->val<<"\n";
+        //     head_sec_list = head_sec_list->next;
+        // }
+        while(head_sec_list->next != NULL) {
+            ListNode* temp = head->next;
+            head->next = head_sec_list;
+            ListNode* temp2 = head_sec_list->next;
+            head_sec_list->next = temp;
+            head_sec_list = temp2;
+            head = temp;
         }
     }
 };
