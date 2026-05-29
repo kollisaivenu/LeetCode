@@ -1,64 +1,64 @@
 class Solution {
 public:
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
-        vector<vector<int>> cells;
         int rows = heights.size();
         int cols = heights[0].size();
-
-        vector<vector<bool>>visAtlantic(rows, vector<bool>(cols, false));
-        vector<vector<bool>>visPacific(rows, vector<bool>(cols, false));
-
-        for(int i=0;i<rows;i++){
-            dfs(i, 0, heights, visPacific);
+        vector<vector<bool>>atlantic(rows, vector<bool>(cols, false));
+        vector<vector<bool>>pacific(rows, vector<bool>(cols, false));
+        vector<vector<int>>ans;
+        
+        // pacific 
+        for(int i=0;i<cols;i++) {
+            dfs(0, i, heights, pacific);
+        }
+        
+        for(int i=0;i<rows;i++) {
+            dfs(i, 0, heights, pacific);
         }
 
-        for(int j=0;j<cols;j++){
-            dfs(0, j, heights, visPacific);
+        // atlantic
+        for(int i=0;i<cols;i++) {
+            dfs(rows-1, i, heights, atlantic);
+        }
+        
+        for(int i=0;i<rows;i++) {
+            dfs(i, cols-1, heights, atlantic);
         }
 
-        for(int i=0;i<rows;i++){
-            dfs(i, cols-1, heights, visAtlantic);
-        }
-
-        for(int j=0;j<cols;j++){
-            dfs(rows-1, j, heights, visAtlantic);
-        }
-        for(int i=0;i<rows;i++){
-            for(int j=0;j<cols;j++){
-
-                if(visAtlantic[i][j] && visPacific[i][j]){
-                    vector<int> cell;
-                    cell.push_back(i);
-                    cell.push_back(j);
-                    cells.push_back(cell);
+        for(int i=0;i<rows;i++) {
+            for(int j=0;j<cols;j++) {
+                if(atlantic[i][j] && pacific[i][j]) {
+                    vector<int>xy;
+                    xy.push_back(i);
+                    xy.push_back(j);
+                    ans.push_back(xy);
                 }
             }
         }
-        return cells;
-        
+
+        return ans;
     }
 
-
-
-    void dfs(int i, int j, vector<vector<int>>& heights, vector<vector<bool>>&vis){
-        vis[i][j] = true;
+    void dfs(int x, int y, vector<vector<int>>& heights, vector<vector<bool>>&ocean) {
+        ocean[x][y] = true;
         int rows = heights.size();
         int cols = heights[0].size();
 
-        if(i+1<rows && vis[i+1][j] == false && heights[i+1][j] >= heights[i][j]){
-            dfs(i+1, j, heights, vis);
+        if(x-1 >= 0 && heights[x-1][y] >= heights[x][y] && ocean[x-1][y] == false) {
+            dfs(x-1, y, heights, ocean);
         }
 
-        if(i-1>=0 && vis[i-1][j] == false && heights[i-1][j] >= heights[i][j]){
-            dfs(i-1, j, heights, vis);
+        if(x+1 < rows && heights[x+1][y] >= heights[x][y] && ocean[x+1][y] == false) {
+            dfs(x+1, y, heights, ocean);
         }
 
-        if(j+1<cols && vis[i][j+1] == false && heights[i][j+1] >= heights[i][j]){
-            dfs(i, j+1, heights, vis);
+        if(y-1 >= 0 && heights[x][y-1] >= heights[x][y] && ocean[x][y-1] == false) {
+            dfs(x, y-1, heights, ocean);
         }
 
-        if(j-1>=0 && vis[i][j-1] == false && heights[i][j-1] >= heights[i][j]){
-            dfs(i, j-1, heights, vis);
+        if(y+1 < cols && heights[x][y+1] >= heights[x][y] && ocean[x][y+1] == false) {
+            dfs(x, y+1, heights, ocean);
         }
+        
     }
 };
