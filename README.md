@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kollisaivenu/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/kollisaivenu/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kollisaivenu/LeetCode/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/kollisaivenu/LeetCode/tree/master/0743-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/kollisaivenu/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/kollisaivenu/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kollisaivenu/LeetCode/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/kollisaivenu/LeetCode/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/kollisaivenu/LeetCode/tree/master/0752-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/kollisaivenu/LeetCode/tree/master/0743-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kollisaivenu/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kollisaivenu/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kollisaivenu/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -813,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kollisaivenu/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/kollisaivenu/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/kollisaivenu/LeetCode/tree/master/0355-design-twitter) |
+| [0743-network-delay-time](https://github.com/kollisaivenu/LeetCode/tree/master/0743-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kollisaivenu/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kollisaivenu/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1197,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/kollisaivenu/LeetCode/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/kollisaivenu/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0684-redundant-connection](https://github.com/kollisaivenu/LeetCode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/kollisaivenu/LeetCode/tree/master/0743-network-delay-time) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kollisaivenu/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kollisaivenu/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Divide and Conquer
