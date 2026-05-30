@@ -1,36 +1,45 @@
 class MedianFinder {
 public:
-    priority_queue<int>smallerHeap;
-    priority_queue<int, vector<int>, greater<int>>largerHeap;
+    priority_queue<int, vector<int>, greater<int>>minheap;
+    priority_queue<int>maxheap;
     MedianFinder() {
         
     }
     
     void addNum(int num) {
-        if(smallerHeap.size() == 0){
-            smallerHeap.push(num);
-        } else if(smallerHeap.top()<=num){
-            largerHeap.push(num);
-            if(largerHeap.size() - smallerHeap.size() == 2){
-                smallerHeap.push(largerHeap.top());
-                largerHeap.pop();
+        if(minheap.size() == maxheap.size()) {
+            if(!minheap.empty() && minheap.top() < num) {
+                minheap.push(num);
+            } else {
+                maxheap.push(num);
             }
-        } else if(num < smallerHeap.top()){
-            smallerHeap.push(num);
-            if(smallerHeap.size() - largerHeap.size() == 2){
-                largerHeap.push(smallerHeap.top());
-                smallerHeap.pop();
+        } else if(minheap.size() > maxheap.size()) {
+            if(num >= minheap.top()) {
+                minheap.push(num);
+                maxheap.push(minheap.top());
+                minheap.pop();
+            } else {
+                maxheap.push(num);
+            }
+        } else {
+            if(num >= maxheap.top()) {
+                minheap.push(num);
+            } else {
+                minheap.push(maxheap.top());
+                maxheap.pop();
+                maxheap.push(num);
             }
         }
+        
     }
     
     double findMedian() {
-        if(smallerHeap.size() == largerHeap.size()){
-            return ((double)smallerHeap.top()+largerHeap.top())/2;
-        } else if(smallerHeap.size()>largerHeap.size()){
-            return (double)smallerHeap.top();
+        if(minheap.size() == maxheap.size()) {
+            return (double(minheap.top()) + double(maxheap.top()))/2;
+        } else if(minheap.size() > maxheap.size()) {
+            return (double)minheap.top();
         } else {
-            return (double)largerHeap.top();
+            return (double)maxheap.top();
         }
         
     }
