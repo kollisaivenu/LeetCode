@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kollisaivenu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kollisaivenu/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kollisaivenu/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/kollisaivenu/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kollisaivenu/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/kollisaivenu/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/kollisaivenu/LeetCode/tree/master/0118-pascals-triangle) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/kollisaivenu/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kollisaivenu/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/kollisaivenu/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/kollisaivenu/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/kollisaivenu/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0249-group-shifted-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0249-group-shifted-strings) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kollisaivenu/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/kollisaivenu/LeetCode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/kollisaivenu/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kollisaivenu/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/kollisaivenu/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/kollisaivenu/LeetCode/tree/master/0401-binary-watch) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kollisaivenu/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/kollisaivenu/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/kollisaivenu/LeetCode/tree/master/0130-surrounded-regions) |
@@ -918,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kollisaivenu/LeetCode/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/kollisaivenu/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kollisaivenu/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/kollisaivenu/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kollisaivenu/LeetCode/tree/master/0200-number-of-islands) |
