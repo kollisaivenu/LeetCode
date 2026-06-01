@@ -26,7 +26,7 @@ public:
                 return mid;
             } else if(nums[mid] >= nums[mid-1] && nums[mid+1] >= nums[mid]) {
                 low = mid+1;
-            } else /*if(nums[mid] <= nums[mid-1] && nums[mid+1] <= nums[mid])*/ {
+            } else /* if(nums[mid] <= nums[mid-1] && nums[mid+1] <= nums[mid]) */ {
                 high = mid-1;
             }
         }
