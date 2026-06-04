@@ -1,36 +1,37 @@
 class Solution {
 public:
-    static bool cmp(pair<int, int>&a, pair<int, int>&b) {
-        return a.second < b.second;
-    }
     int earliestFinishTime(vector<int>& landStartTime, vector<int>& landDuration, vector<int>& waterStartTime, vector<int>& waterDuration) {
         int ans = INT_MAX;
-        vector<pair<int, int>>land;
-        vector<pair<int, int>>water;
+        int endTime = INT_MAX;
+        pair<int, int>minLandTime;
+        pair<int, int>minWaterTime;
         for(int i=0;i<landStartTime.size();i++) {
-            land.push_back(make_pair(landStartTime[i], landStartTime[i]+landDuration[i]));
+            if(endTime > landStartTime[i] + landDuration[i]) {
+                minLandTime = make_pair(landStartTime[i], landStartTime[i] + landDuration[i]);
+                endTime = landStartTime[i] + landDuration[i];
+            }
+        }
+        endTime = INT_MAX;
+        for(int i=0;i<waterStartTime.size();i++) {
+            if(endTime > waterStartTime[i] + waterDuration[i]) {
+                minWaterTime = make_pair(waterStartTime[i], waterStartTime[i] + waterDuration[i]);
+                endTime = waterStartTime[i] + waterDuration[i];
+            }
         }
 
         for(int i=0;i<waterStartTime.size();i++) {
-            water.push_back(make_pair(waterStartTime[i], waterStartTime[i]+waterDuration[i]));
-        }
-
-        sort(land.begin(), land.end(), cmp);
-        sort(water.begin(), water.end(), cmp);
-
-        for(int i=0;i<waterStartTime.size();i++) {
-            if(land[0].second <= waterStartTime[i]) {
+            if(minLandTime.second <= waterStartTime[i]) {
                 ans = min(ans, waterStartTime[i] + waterDuration[i]);
             } else {
-                ans = min(ans, land[0].second + waterDuration[i]);
+                ans = min(ans, minLandTime.second + waterDuration[i]);
             }
         }
 
         for(int i=0;i<landStartTime.size();i++) {
-            if(water[0].second <= landStartTime[i]) {
+            if(minWaterTime.second <= landStartTime[i]) {
                 ans = min(ans, landStartTime[i] + landDuration[i]);
             } else {
-                ans = min(ans, water[0].second + landDuration[i]);
+                ans = min(ans, minWaterTime.second + landDuration[i]);
             }
         }
 
