@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kollisaivenu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kollisaivenu/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3639-zero-array-transformation-i](https://github.com/kollisaivenu/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kollisaivenu/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kollisaivenu/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/kollisaivenu/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kollisaivenu/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kollisaivenu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kollisaivenu/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/kollisaivenu/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Table
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kollisaivenu/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kollisaivenu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kollisaivenu/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kollisaivenu/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/kollisaivenu/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/kollisaivenu/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kollisaivenu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kollisaivenu/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kollisaivenu/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Design
@@ -1084,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2861-maximum-number-of-alloys](https://github.com/kollisaivenu/LeetCode/tree/master/2861-maximum-number-of-alloys) |
 | [3453-separate-squares-i](https://github.com/kollisaivenu/LeetCode/tree/master/3453-separate-squares-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kollisaivenu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kollisaivenu/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search Tree
