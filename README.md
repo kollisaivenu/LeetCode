@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kollisaivenu/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0249-group-shifted-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0252-meeting-rooms](https://github.com/kollisaivenu/LeetCode/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/kollisaivenu/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0269-alien-dictionary](https://github.com/kollisaivenu/LeetCode/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/kollisaivenu/LeetCode/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/kollisaivenu/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/kollisaivenu/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0303-range-sum-query-immutable](https://github.com/kollisaivenu/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/kollisaivenu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kollisaivenu/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kollisaivenu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/kollisaivenu/LeetCode/tree/master/0135-candy) |
+| [0253-meeting-rooms-ii](https://github.com/kollisaivenu/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0611-valid-triangle-number](https://github.com/kollisaivenu/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/kollisaivenu/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/kollisaivenu/LeetCode/tree/master/0763-partition-labels) |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kollisaivenu/LeetCode/tree/master/0075-sort-colors) |
 | [0252-meeting-rooms](https://github.com/kollisaivenu/LeetCode/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/kollisaivenu/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/kollisaivenu/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kollisaivenu/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0368-largest-divisible-subset](https://github.com/kollisaivenu/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -814,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kollisaivenu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/kollisaivenu/LeetCode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/kollisaivenu/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0253-meeting-rooms-ii](https://github.com/kollisaivenu/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kollisaivenu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/kollisaivenu/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/kollisaivenu/LeetCode/tree/master/0567-permutation-in-string) |
@@ -849,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kollisaivenu/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/kollisaivenu/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/kollisaivenu/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/kollisaivenu/LeetCode/tree/master/0355-design-twitter) |
 | [0743-network-delay-time](https://github.com/kollisaivenu/LeetCode/tree/master/0743-network-delay-time) |
