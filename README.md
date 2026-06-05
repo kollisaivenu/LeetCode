@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/kollisaivenu/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0756-pyramid-transition-matrix](https://github.com/kollisaivenu/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0797-all-paths-from-source-to-target](https://github.com/kollisaivenu/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1211-iterator-for-combination](https://github.com/kollisaivenu/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kollisaivenu/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kollisaivenu/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kollisaivenu/LeetCode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/kollisaivenu/LeetCode/tree/master/0743-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0797-all-paths-from-source-to-target](https://github.com/kollisaivenu/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kollisaivenu/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kollisaivenu/LeetCode/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/kollisaivenu/LeetCode/tree/master/0752-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0797-all-paths-from-source-to-target](https://github.com/kollisaivenu/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/kollisaivenu/LeetCode/tree/master/0994-rotting-oranges) |
@@ -1238,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/kollisaivenu/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0684-redundant-connection](https://github.com/kollisaivenu/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/kollisaivenu/LeetCode/tree/master/0743-network-delay-time) |
+| [0797-all-paths-from-source-to-target](https://github.com/kollisaivenu/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kollisaivenu/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kollisaivenu/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Divide and Conquer
