@@ -26,7 +26,7 @@ public:
             dp[i][j+1] = recurrence(text1, text2, i, j+1, dp);
         }
         ans = max(ans, dp[i][j+1]);
-
-        return ans;
+        dp[i][j] = ans;
+        return dp[i][j];
     }
 };
