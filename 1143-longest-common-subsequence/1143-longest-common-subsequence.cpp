@@ -11,10 +11,11 @@ public:
         }
         int ans = 0;
         if(text1[i] == text2[j]) {
-            if (dp[i][j] == -1) {
-                dp[i][j] = 1 + recurrence(text1, text2, i+1, j+1, dp);
+            if (dp[i+1][j+1] == -1) {
+                dp[i+1][j+1] = recurrence(text1, text2, i+1, j+1, dp);
             }
-            ans = max(ans, dp[i][j]);
+
+            ans = max(ans, 1 + dp[i+1][j+1]);
         }
         if(dp[i+1][j] == -1) {
             dp[i+1][j] = recurrence(text1, text2, i+1, j, dp);
@@ -25,6 +26,7 @@ public:
         if(dp[i][j+1] == -1) {
             dp[i][j+1] = recurrence(text1, text2, i, j+1, dp);
         }
+
         ans = max(ans, dp[i][j+1]);
         dp[i][j] = ans;
         return dp[i][j];
