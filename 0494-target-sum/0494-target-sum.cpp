@@ -1,18 +1,24 @@
 class Solution {
 public:
     int findTargetSumWays(vector<int>& nums, int target) {
-        return recursion(0, nums, target, 0);
+        return recurse(0, nums, 0, target);
     }
-    int recursion(int i, vector<int>&nums, int target, int curr_sum){
-        int ans = 0;
-        if(i >= nums.size()){
-            if(curr_sum == target){
+
+    int recurse(int i, vector<int>&nums, int curr_sum, int target) {
+        if(i == nums.size()) {
+            if(curr_sum == target) {
                 return 1;
+            } else {
+                return 0;
             }
-            return 0;
         }
 
-        ans = recursion(i+1, nums, target, curr_sum + nums[i]) + recursion(i+1, nums, target, curr_sum - nums[i]);
+        int ans = 0;
+        ans += recurse(i+1, nums, curr_sum + nums[i], target);
+        ans += recurse(i+1, nums, curr_sum - nums[i], target);
+
         return ans;
+
+
     }
 };
