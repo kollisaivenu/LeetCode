@@ -10,7 +10,7 @@ public:
         
     }
 
-    void backtrack(vector<int>&nums, vector<int>perm, vector<bool>&vis, vector<vector<int>>&ans) {
+    void backtrack(vector<int>&nums, vector<int>&perm, vector<bool>&vis, vector<vector<int>>&ans) {
         if(perm.size() == nums.size()) {
             ans.push_back(perm);
             return;
