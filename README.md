@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/kollisaivenu/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1797-design-authentication-manager](https://github.com/kollisaivenu/LeetCode/tree/master/1797-design-authentication-manager) |
 | [1813-maximum-erasure-value](https://github.com/kollisaivenu/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1980-find-unique-binary-string](https://github.com/kollisaivenu/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kollisaivenu/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -872,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0359-logger-rate-limiter](https://github.com/kollisaivenu/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kollisaivenu/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1211-iterator-for-combination](https://github.com/kollisaivenu/LeetCode/tree/master/1211-iterator-for-combination) |
+| [1797-design-authentication-manager](https://github.com/kollisaivenu/LeetCode/tree/master/1797-design-authentication-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kollisaivenu/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -1091,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kollisaivenu/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/kollisaivenu/LeetCode/tree/master/0355-design-twitter) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kollisaivenu/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1797-design-authentication-manager](https://github.com/kollisaivenu/LeetCode/tree/master/1797-design-authentication-manager) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kollisaivenu/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
@@ -1266,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [1797-design-authentication-manager](https://github.com/kollisaivenu/LeetCode/tree/master/1797-design-authentication-manager) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kollisaivenu/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Graph Theory
 |  |
