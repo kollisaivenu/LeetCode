@@ -1,27 +1,30 @@
 class Solution {
 public:
     vector<vector<int>> permute(vector<int>& nums) {
+        vector<int>perm;
         vector<vector<int>>ans;
-        vector<int>array;
         vector<bool>vis(nums.size(), false);
-        dfs(nums, array, ans, vis);
+        backtrack(nums, perm, vis, ans);
+
         return ans;
+        
     }
 
-    void dfs(vector<int>&nums, vector<int>array, vector<vector<int>>&ans, vector<bool>&vis) {
-        if(array.size() == nums.size()) {
-            ans.push_back(array);
+    void backtrack(vector<int>&nums, vector<int>perm, vector<bool>&vis, vector<vector<int>>&ans) {
+        if(perm.size() == nums.size()) {
+            ans.push_back(perm);
             return;
         }
 
         for(int i=0;i<nums.size();i++) {
             if(!vis[i]) {
-                array.push_back(nums[i]);
                 vis[i] = true;
-                dfs(nums, array, ans, vis);
+                perm.push_back(nums[i]);
+                backtrack(nums, perm, vis, ans);
                 vis[i] = false;
-                array.pop_back();
+                perm.pop_back();
             }
         }
+
     }
 };
