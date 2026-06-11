@@ -4,8 +4,6 @@ public:
         queue<pair<pair<int, int>, int>>q;
         int rows = grid.size();
         int cols = grid[0].size();
-        int fresh = 0;
-        int rotten = 0;
         int mins = 0;
         vector<vector<bool>>vis(rows, vector<bool>(cols, false));
         for(int i=0;i<rows;i++) {
@@ -18,7 +16,6 @@ public:
         }
 
         while(!q.empty()) {
-            bool foundRotten = false;
             pair<pair<int, int>, int>p = q.front();
             q.pop();
             int x = p.first.first;
