@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-score-of-a-split](https://github.com/kollisaivenu/LeetCode/tree/master/3788-maximum-score-of-a-split) |
 | [3790-fruits-into-baskets-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kollisaivenu/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3838-weighted-word-mapping](https://github.com/kollisaivenu/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kollisaivenu/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kollisaivenu/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3798-largest-even-number](https://github.com/kollisaivenu/LeetCode/tree/master/3798-largest-even-number) |
+| [3838-weighted-word-mapping](https://github.com/kollisaivenu/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kollisaivenu/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
@@ -1195,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kollisaivenu/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kollisaivenu/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/kollisaivenu/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
