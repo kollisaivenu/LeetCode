@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kollisaivenu/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kollisaivenu/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kollisaivenu/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/kollisaivenu/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kollisaivenu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kollisaivenu/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/kollisaivenu/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/kollisaivenu/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1143-longest-common-subsequence](https://github.com/kollisaivenu/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/kollisaivenu/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1211-iterator-for-combination](https://github.com/kollisaivenu/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kollisaivenu/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kollisaivenu/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -1146,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kollisaivenu/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/kollisaivenu/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1189-maximum-number-of-balloons](https://github.com/kollisaivenu/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kollisaivenu/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
