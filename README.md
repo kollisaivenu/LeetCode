@@ -591,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kollisaivenu/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kollisaivenu/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kollisaivenu/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/kollisaivenu/LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kollisaivenu/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/kollisaivenu/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kollisaivenu/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
