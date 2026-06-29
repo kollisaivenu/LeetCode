@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kollisaivenu/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kollisaivenu/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/kollisaivenu/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/kollisaivenu/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/kollisaivenu/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kollisaivenu/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/kollisaivenu/LeetCode/tree/master/0079-word-search) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kollisaivenu/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kollisaivenu/LeetCode/tree/master/0075-sort-colors) |
 | [0252-meeting-rooms](https://github.com/kollisaivenu/LeetCode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/kollisaivenu/LeetCode/tree/master/0253-meeting-rooms-ii) |
