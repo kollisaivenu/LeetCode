@@ -21,10 +21,7 @@ public:
                 end = intervals[i][1];
             }
         }
-
-        if(start != INT_MAX) {
-            ans.push_back({start, end});
-        }
+        ans.push_back({start, end});
 
         return ans;
     }
