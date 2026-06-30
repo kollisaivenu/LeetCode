@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kollisaivenu/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/kollisaivenu/LeetCode/tree/master/1656-count-good-triplets) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kollisaivenu/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kollisaivenu/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kollisaivenu/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/kollisaivenu/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/kollisaivenu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kollisaivenu/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kollisaivenu/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kollisaivenu/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/kollisaivenu/LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -951,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/kollisaivenu/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/kollisaivenu/LeetCode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kollisaivenu/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kollisaivenu/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/kollisaivenu/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kollisaivenu/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/kollisaivenu/LeetCode/tree/master/1925-count-square-sum-triples) |
