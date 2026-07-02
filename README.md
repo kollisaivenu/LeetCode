@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/kollisaivenu/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kollisaivenu/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kollisaivenu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2964-number-of-divisible-triplet-sums](https://github.com/kollisaivenu/LeetCode/tree/master/2964-number-of-divisible-triplet-sums) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/kollisaivenu/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kollisaivenu/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kollisaivenu/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kollisaivenu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2898-maximum-linear-stock-score](https://github.com/kollisaivenu/LeetCode/tree/master/2898-maximum-linear-stock-score) |
+| [2964-number-of-divisible-triplet-sums](https://github.com/kollisaivenu/LeetCode/tree/master/2964-number-of-divisible-triplet-sums) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/kollisaivenu/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kollisaivenu/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kollisaivenu/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
