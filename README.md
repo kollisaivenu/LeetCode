@@ -740,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kollisaivenu/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/kollisaivenu/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kollisaivenu/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/kollisaivenu/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/kollisaivenu/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/kollisaivenu/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kollisaivenu/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kollisaivenu/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kollisaivenu/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kollisaivenu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/kollisaivenu/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/kollisaivenu/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1321,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/kollisaivenu/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/kollisaivenu/LeetCode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/kollisaivenu/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kollisaivenu/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kollisaivenu/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kollisaivenu/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Divide and Conquer
@@ -1350,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/kollisaivenu/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0684-redundant-connection](https://github.com/kollisaivenu/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kollisaivenu/LeetCode/tree/master/0695-max-area-of-island) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kollisaivenu/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Counting Sort
 |  |
 | ------- |
