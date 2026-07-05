@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-buildings-with-an-ocean-view](https://github.com/kollisaivenu/LeetCode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1813-maximum-erasure-value](https://github.com/kollisaivenu/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1833-maximum-ice-cream-bars](https://github.com/kollisaivenu/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kollisaivenu/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kollisaivenu/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/kollisaivenu/LeetCode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kollisaivenu/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kollisaivenu/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kollisaivenu/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/kollisaivenu/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kollisaivenu/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kollisaivenu/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/kollisaivenu/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1917-maximum-average-pass-ratio](https://github.com/kollisaivenu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kollisaivenu/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kollisaivenu/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/kollisaivenu/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kollisaivenu/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kollisaivenu/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kollisaivenu/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kollisaivenu/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
