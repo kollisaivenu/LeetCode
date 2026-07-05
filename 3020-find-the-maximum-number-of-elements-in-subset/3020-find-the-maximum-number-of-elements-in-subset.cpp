@@ -14,20 +14,12 @@ public:
                 ans = freq[1];
             }
         }
-
-        if(freq[0] >= 1) {
-            if(freq[0]%2 == 0) {
-                ans = max(ans, freq[0]-1);
-            } else {
-                ans = max(ans, freq[0]);
-            }
-        }
         
         for(int i=0;i<nums.size();i++) {
             long long seq = nums[i];
             int count = 0;
 
-            if(seq == 0 || seq == 1) {
+            if(seq == 1) {
                 continue;
             }
 
