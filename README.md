@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kollisaivenu/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kollisaivenu/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/kollisaivenu/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kollisaivenu/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kollisaivenu/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kollisaivenu/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/kollisaivenu/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3639-zero-array-transformation-i](https://github.com/kollisaivenu/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/kollisaivenu/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kollisaivenu/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3788-maximum-score-of-a-split](https://github.com/kollisaivenu/LeetCode/tree/master/3788-maximum-score-of-a-split) |
 ## Dynamic Programming
 |  |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kollisaivenu/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3713-longest-balanced-substring-i](https://github.com/kollisaivenu/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/kollisaivenu/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kollisaivenu/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kollisaivenu/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kollisaivenu/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1204,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/kollisaivenu/LeetCode/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kollisaivenu/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/kollisaivenu/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kollisaivenu/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kollisaivenu/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kollisaivenu/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3778-transform-array-by-parity](https://github.com/kollisaivenu/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -1293,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/kollisaivenu/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kollisaivenu/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kollisaivenu/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
@@ -1341,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/kollisaivenu/LeetCode/tree/master/0190-reverse-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kollisaivenu/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/kollisaivenu/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kollisaivenu/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1366,4 +1372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/kollisaivenu/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kollisaivenu/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
