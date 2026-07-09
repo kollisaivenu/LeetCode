@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kollisaivenu/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kollisaivenu/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/kollisaivenu/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kollisaivenu/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kollisaivenu/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kollisaivenu/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/kollisaivenu/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kollisaivenu/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kollisaivenu/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/kollisaivenu/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kollisaivenu/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/kollisaivenu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3583-count-special-triplets](https://github.com/kollisaivenu/LeetCode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/kollisaivenu/LeetCode/tree/master/3606-coupon-code-validator) |
@@ -1176,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2861-maximum-number-of-alloys](https://github.com/kollisaivenu/LeetCode/tree/master/2861-maximum-number-of-alloys) |
 | [3453-separate-squares-i](https://github.com/kollisaivenu/LeetCode/tree/master/3453-separate-squares-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kollisaivenu/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kollisaivenu/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -1339,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/kollisaivenu/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kollisaivenu/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kollisaivenu/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kollisaivenu/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kollisaivenu/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Divide and Conquer
 |  |
@@ -1369,6 +1373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/kollisaivenu/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kollisaivenu/LeetCode/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kollisaivenu/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kollisaivenu/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Counting Sort
 |  |
 | ------- |
