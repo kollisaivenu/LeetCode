@@ -16,13 +16,4 @@ public:
 
         return ans;
     }
-
-    bool isvalid(unordered_map<char, bool>&present, int i , int j) {
-        if(j-i+1 == present.size()) {
-            return true;
-        }
-
-        return false;
-
-    }
 };
