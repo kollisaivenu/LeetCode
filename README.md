@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/kollisaivenu/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kollisaivenu/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/kollisaivenu/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kollisaivenu/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/kollisaivenu/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kollisaivenu/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -1253,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kollisaivenu/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kollisaivenu/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/kollisaivenu/LeetCode/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3336-water-bottles-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/kollisaivenu/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kollisaivenu/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
