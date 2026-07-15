@@ -1037,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/kollisaivenu/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3623-count-number-of-trapezoids-i](https://github.com/kollisaivenu/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kollisaivenu/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kollisaivenu/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kollisaivenu/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kollisaivenu/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kollisaivenu/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -1305,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kollisaivenu/LeetCode/tree/master/0204-count-primes) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kollisaivenu/LeetCode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/kollisaivenu/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kollisaivenu/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kollisaivenu/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Memoization
 |  |
