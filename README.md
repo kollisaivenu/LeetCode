@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kollisaivenu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kollisaivenu/LeetCode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/kollisaivenu/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kollisaivenu/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kollisaivenu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kollisaivenu/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kollisaivenu/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kollisaivenu/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/kollisaivenu/LeetCode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/kollisaivenu/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/kollisaivenu/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/kollisaivenu/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0165-compare-version-numbers](https://github.com/kollisaivenu/LeetCode/tree/master/0165-compare-version-numbers) |
