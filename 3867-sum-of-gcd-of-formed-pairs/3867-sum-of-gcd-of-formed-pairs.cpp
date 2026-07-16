@@ -1,12 +1,12 @@
 class Solution {
 public:
     long long gcdSum(vector<int>& nums) {
-        vector<int>prefixGcd;
+        vector<int>prefixGcd(nums.size());
         int mx = INT_MIN;
 
         for(int i=0;i<nums.size();i++) {
             mx = max(mx, nums[i]);
-            prefixGcd.push_back(gcd(nums[i], mx));
+            prefixGcd[i] = (gcd(nums[i], mx));
         }
         sort(prefixGcd.begin(), prefixGcd.end());
         long long ans = 0;
