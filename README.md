@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kollisaivenu/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kollisaivenu/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1260-shift-2d-grid](https://github.com/kollisaivenu/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kollisaivenu/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kollisaivenu/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/kollisaivenu/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -1073,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/kollisaivenu/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/kollisaivenu/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/kollisaivenu/LeetCode/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/kollisaivenu/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kollisaivenu/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kollisaivenu/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kollisaivenu/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -1256,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/kollisaivenu/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/kollisaivenu/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/kollisaivenu/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [1260-shift-2d-grid](https://github.com/kollisaivenu/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kollisaivenu/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kollisaivenu/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/kollisaivenu/LeetCode/tree/master/1642-water-bottles) |
