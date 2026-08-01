@@ -13,6 +13,7 @@ public:
 
         sort(pairs.begin(), pairs.end());
         reverse(pairs.begin(), pairs.end());
+        
         int assign = 0, ans = 0;
         for(auto [val, key]: pairs) {
             if(assign < 8) {
