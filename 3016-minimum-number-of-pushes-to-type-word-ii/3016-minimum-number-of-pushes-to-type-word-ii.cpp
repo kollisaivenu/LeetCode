@@ -1,21 +1,14 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        map<char, int>freq;
-        vector<pair<int, char>>pairs;
+        vector<int>freq(26, 0);
         for(char ch: word) {
-            freq[ch]++;
+            freq[ch-'a']++;
         }
 
-        for(auto [key, val]: freq) {
-            pairs.push_back(make_pair(val, key));
-        }
-
-        sort(pairs.begin(), pairs.end());
-        reverse(pairs.begin(), pairs.end());
-        
+        sort(freq.rbegin(), freq.rend());
         int assign = 0, ans = 0;
-        for(auto [val, key]: pairs) {
+        for(int val: freq) {
             if(assign < 8) {
                 ans += val;
             } else if(assign < 16) {
