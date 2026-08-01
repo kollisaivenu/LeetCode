@@ -9,6 +9,8 @@ public:
         sort(freq.rbegin(), freq.rend());
         int assign = 0, ans = 0;
         for(int val: freq) {
+            if(val == 0) break;
+            
             if(assign < 8) {
                 ans += val;
             } else if(assign < 16) {
