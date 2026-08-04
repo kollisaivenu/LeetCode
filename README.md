@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kollisaivenu/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kollisaivenu/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/kollisaivenu/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/kollisaivenu/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kollisaivenu/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kollisaivenu/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kollisaivenu/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3713-longest-balanced-substring-i](https://github.com/kollisaivenu/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/kollisaivenu/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/kollisaivenu/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kollisaivenu/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kollisaivenu/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/kollisaivenu/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kollisaivenu/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kollisaivenu/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3731-find-missing-elements](https://github.com/kollisaivenu/LeetCode/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/kollisaivenu/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/kollisaivenu/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kollisaivenu/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
